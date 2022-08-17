@@ -28,5 +28,5 @@ number).
 # compilation && execution
 Prototype for command line is as follows:
 Prototypes for Client and Server
-Client: <executable code><Server IP Address><Server Port number>
-Server: <executable code><Server Port number>
+##Client: <executable code><Server IP Address><Server Port number>
+##Server: <executable code><Server Port number>
