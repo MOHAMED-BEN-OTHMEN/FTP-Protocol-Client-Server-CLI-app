@@ -27,6 +27,7 @@ You should accept the IP Address and Port number from the command line (Don't us
 number).
 # compilation && execution
 Prototype for command line is as follows:
-Prototypes for Client and Server
-##Client: <executable code><Server IP Address><Server Port number>
-##Server: <executable code><Server Port number>
+Prototypes for Client and Server.
+
+Server: ./server Server_Port_number
+Client: ./client server_IP_Address Server_Port_number
