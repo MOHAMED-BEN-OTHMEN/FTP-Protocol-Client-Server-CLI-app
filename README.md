@@ -28,6 +28,7 @@ number).
 # compilation && execution
 Prototype for command line is as follows:
 Prototypes for Client and Server.
-
-Server: ./server Server_Port_number
-Client: ./client server_IP_Address Server_Port_number
+# Server:
+ ./server Server_Port_number
+# Client: 
+./client server_IP_Address Server_Port_number
