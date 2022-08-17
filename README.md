@@ -25,10 +25,13 @@ Use appropriate message types to implement the aforesaid functionalities. For si
 and .c file(s) for transfer.
 You should accept the IP Address and Port number from the command line (Don't use a hard-coded port
 number).
-# compilation && execution
+# compilation  
+ gcc client.c -o client
+ gcc server.c -o server
+# execution
 Prototype for command line is as follows:
 Prototypes for Client and Server.
 # Server:
- ./server Server_Port_number
+ ./server  Server_Port_number
 # Client: 
-./client server_IP_Address Server_Port_number
+./client   server_IP_Address   Server_Port_number
